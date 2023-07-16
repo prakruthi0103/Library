@@ -1,0 +1,6 @@
+com/library/BookDAO.class
+com/library/Book.class
+com/library/Server.class
+com/library/App.class
+com/library/HealthHandler.class
+com/library/BookHandler.class
